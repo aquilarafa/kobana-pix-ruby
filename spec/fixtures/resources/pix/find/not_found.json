@@ -1,0 +1,10 @@
+{
+  "status": 404,
+  "errors": [
+    {
+      "title": "Não foi possível encontrar o registro",
+      "code": "not_found",
+      "detail": "Este registro não existe, ou foi deletado."
+    }
+  ]
+}

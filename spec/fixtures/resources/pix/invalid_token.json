@@ -1,0 +1,10 @@
+{
+  "status": 401,
+  "errors": [
+    {
+      "title": "Token de API inválido (Servidor: test)",
+      "code": "unauthorized",
+      "detail": "O Token de API é diferente para cada Servidor/URL, mais em https://developers.kobana.com.br/reference/token-de-acesso"
+    }
+  ]
+}

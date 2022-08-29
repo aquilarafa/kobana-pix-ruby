@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "data": {
+    "id": 233,
+    "txid": "TXID000001000001000001000001",
+    "status": "opened",
+    "pix_account_id": 249,
+    "created_at": "2022-08-27T02:47:07+03:00",
+    "expire_at": "2022-08-30T00:00:00+03:00",
+    "amount": 199.99,
+    "additional_info": {},
+    "command_ids": [],
+    "message": "MyText",
+    "qrcode": {
+      "emv": "00000000000000000000br.gov.bcb.pix2563qrcodepix.bb.com.br/pix/v2/99999999-8888-8888-4444-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.000000000000YYYYYYYYYYYYYYYYYYYYYYYYY6008XXXXXXXX62070503***63040921",
+      "png": "iVBORw0KGgoAAAANSUhEUgAAAQkAAAEJAQAAAACvE+/JAAAEW0lEQVR4nO1a\nTW7rPAwkkwD2Tr6BfJFE6bEK5MeuA+RYjdKLSDewdjaQlG+odvteukr1AZ8X\nrRBrMWVGwxmqC3n0dAt6+Py/5W9bPDPX17TneUE915T2bY3PWromvFmUBpfx\nhdO6ITJ37mjeEsX5QLvIWzqKXEqDS4lbYK2EPqQjEjtI9WaGMBHdUezi4H49\nr+18SEA6jH07b/VP2Pwalsdb0ipOZGaeHRgBgnRUXX4Ly7+3GAnEI36/N0up\nZNzFSakMHixlejKWx1sE55+utLP0EffQAyJrhnizWPWM81YYXAdlmMRCFA50\n9mDsGafMVH7aGLz5LA2ub/q2duM5QLRe3czNK9drnlvwuSMtdllwN2nwaAhd\nJI8Si4wnmpegMnNzb/lQGlzogTNebpYPuZyms9UnnWhyMnh5Kw4uLUNyDfAB\nKQGzeKxEqndmV95R+xhPseZ4i+YT1Z2udHe1MCzEFq+nTWlwBRqrymChB2gO\nn+oZXmQItWpxeU2Yx7tDYaG+L+PZ11fYBVHu4uQNviqOu+tmF9PLuLPVJd3s\nvG96Ny9SZ8WPT8fygy0fkNz6SicIGc4bhPYYarEwvSCwUwKXBXeD5oAOcQyQ\ntBth1bfkYqcVP4aqwK629DUZrSSCBB/HZQDwzuLHKpbX1XjsXdomdDUHpJM0\nry18GAqrVC7RkQ3BvKP/KjSCPT+plUSQ2Kg8FKe7aMJt2mJZ9ZZbWmtge4lD\nAA+QMLalwd0gSGg3sDPULCL6wp4TgSBozAVy92puVi5JGxrUtlJHRspdtT0l\ndrXYERruEmrbwJ5rrjB908MzpK7Eo6aeAd8+9MDsNf8CM8NPVhdYiBKPWhfZ\nNTA2iyQBaYLybIQgGSB1cdxFB1N/sLO1OjLUeUdy58HPB6MlLg3uFfYcSFeU\n5zmVGpt5KXvtFecwFxd+MnehtrHyMoi2XtQ5DaF6g1qUNyNzsoIywI+nPbIk\nkN50nsPwOeO9wAnktzLcWzPEwdParpSxyzA7O4Tyqqvl5G0SQS7Trpvm7znD\nR5zds7H8YIvJFD3lOYOOmr7nDOaC1+XNGa5oXkpRm92D+vGvOUNSLS5wzmBU\ntHRWuoXkYiVeLXuoHYSivDkDRyiDIKapnSG0sXtG7ybflDhnWKOS4uMgApMA\nFwn0OQEZiciXz8Xyky1GlQE/YMvOIce0rGukBq28OQOllZ1wyiAKkDS5gwJY\nVSEtEIzLa8IwuGR6e4PKgsCstuxrzgAL4cqzOE66r65W6dQUaaLPcwYSTRNP\nxvKDLfnWEmQgnTNwNmjZA885zBfnd/OtJY/HIO/NWXSo04ICRzEXU2L4ybeW\nHmYMFmxHOU1oFtIbtlWJ4Sc/msu8Za4EVhL0QMV1qFPenCE/GxgHvbhGdXnP\neVYKbrzyb2B5sEVvLa8IPzk+aJrIaqupchnKi5b51pJUbTcqCi7e8pyhTUdh\nV549z7eWWXxZkIkv+r8B+lmVZ76FHrX/yJY/f72JkMFgLPYAAAAASUVORK5C\nYII=\n"
+    },
+    "payer": {
+      "name": "José da Silva",
+      "document_number": "39988107226"
+    }
+  }
+}

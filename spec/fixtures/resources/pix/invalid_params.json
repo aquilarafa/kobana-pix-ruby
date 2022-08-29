@@ -1,0 +1,20 @@
+{
+  "status": 422,
+  "errors": [
+    {
+      "code": "validation_error",
+      "param": "amount",
+      "detail": "Quantia não pode ficar em branco"
+    },
+    {
+      "code": "validation_error",
+      "param": "payer",
+      "detail": "Pagador > Número do Documento não é um CNPJ ou CPF válido"
+    },
+    {
+      "code": "validation_error",
+      "param": "payer",
+      "detail": "Pagador > Nome não pode ficar em branco"
+    }
+  ]
+}
