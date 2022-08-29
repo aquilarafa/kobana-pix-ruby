@@ -12,7 +12,7 @@ Execute:
 
 Ou instale você mesmo:
 
-    $ gem install boletosimples
+    $ gem install kobana-pix-ruby
 
 ## Configuração
 
@@ -24,7 +24,6 @@ require 'kobana-pix-ruby'
 Kobana.configure do |c|
   c.environment = :production # defaut :sandbox
   c.api_key = 'api-token'
-
 end
 ```
 
